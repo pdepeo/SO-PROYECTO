@@ -1,0 +1,27 @@
+C:\Users\Equip\Desktop\SO - QP\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Equip\Desktop\SO - QP\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Equip\Desktop\SO - QP\Cliente\Cliente\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\Equip\Desktop\SO - QP\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\Equip\Desktop\SO - QP\Cliente\Cliente\obj\x86\Debug\Cliente.Registro.resources
+C:\Users\Equip\Desktop\SO - QP\Cliente\Cliente\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Equip\Desktop\SO - QP\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\Equip\Desktop\SO - QP\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\Equip\Desktop\SO - QP\Cliente\Cliente\obj\x86\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Equip\Desktop\SO - QP\Version1\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\Equip\Desktop\SO - QP\Version1\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\Equip\Desktop\SO - QP\Version1\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Equip\Desktop\SO - QP\Version1\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Equip\Desktop\SO - QP\Version1\Cliente\Cliente\obj\x86\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Equip\Desktop\SO - QP\Version1\Cliente\Cliente\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\Equip\Desktop\SO - QP\Version1\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\Equip\Desktop\SO - QP\Version1\Cliente\Cliente\obj\x86\Debug\Cliente.Registro.resources
+C:\Users\Equip\Desktop\SO - QP\Version1\Cliente\Cliente\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\mique\Desktop\Version1.2\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\mique\Desktop\Version1.2\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\mique\Desktop\Version1.2\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\mique\Desktop\Version1.2\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\mique\Desktop\Version1.2\Cliente\Cliente\obj\x86\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\mique\Desktop\Version1.2\Cliente\Cliente\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\mique\Desktop\Version1.2\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\mique\Desktop\Version1.2\Cliente\Cliente\obj\x86\Debug\Cliente.Registro.resources
+C:\Users\mique\Desktop\Version1.2\Cliente\Cliente\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache
